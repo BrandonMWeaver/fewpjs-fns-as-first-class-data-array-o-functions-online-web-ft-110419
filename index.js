@@ -36,3 +36,8 @@ const routine = [
   walkHome,
   unleashDog
 ];
+
+function exerciseDog(dogName, dogBreed)
+{
+  
+}
