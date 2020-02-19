@@ -39,8 +39,10 @@ const routine = [
 
 function exerciseDog(dogName, dogBreed)
 {
+  let returnValue = [];
   for (let i = 0; i < routine.length; i++)
   {
-    routine[i](dogName, dogBreed);
+    returnValue.push(routine[i](dogName, dogBreed));
   }
+  return returnValue;
 }
