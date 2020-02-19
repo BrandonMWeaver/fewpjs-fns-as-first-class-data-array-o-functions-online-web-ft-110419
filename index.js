@@ -29,5 +29,10 @@ function unleashDog(dogName, dogBreed)
 }
 
 const routine = [
-
+  wakeDog,
+  leashDog,
+  walkToPark,
+  throwFrisbee,
+  walkHome,
+  unleashDog
 ];
