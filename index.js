@@ -10,20 +10,20 @@ function leashDog()
 
 function walkToPark()
 {
-  console.log();
+  console.log("Walk to the park with Byron the poodle");
 }
 
 function throwFrisbee()
 {
-  console.log();
+  console.log("Throw the frisbee for Byron the poodle");
 }
 
 function walkHome()
 {
-  console.log();
+  console.log("Walk home with Byron the poodle");
 }
 
 function unleashDog()
 {
-  console.log();
+  console.log("Unleash Byron the poodle");
 }
